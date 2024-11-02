@@ -59,11 +59,11 @@ dotnet run
 
 Acesse a documentação Swagger em ```http://localhost:5000/swagger``` para explorar e testar os endpoints da API, como:
 
--Produtos: /api/produtos
--Categorias: /api/categorias
--Pedidos: /api/pedidos
--Autenticação: /api/usuarios
--Itens do pedido: /api/itenspedidos
+- Produtos: /api/produtos
+- Categorias: /api/categorias
+- Pedidos: /api/pedidos
+- Autenticação: /api/usuarios
+- Itens do pedido: /api/itenspedidos
 
 ## 😄 Seja um dos contribuidores
 
